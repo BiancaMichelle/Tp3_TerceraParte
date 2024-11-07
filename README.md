@@ -2,7 +2,7 @@
 
 
 
-###3- Patrón Singleton
+### 3- Patrón Singleton
 
 
 ![image](https://github.com/user-attachments/assets/2421f4f3-bc00-4dda-abd4-a064d3cccb67)
