@@ -1,5 +1,11 @@
 # Tp3_TerceraParte
+### 1- Patrón
 
+
+![Captura](https://github.com/user-attachments/assets/27d26d29-999d-4aed-9413-07160d8e40e8)
+
+
+El diagrama de clases representa el diseño de un sistema de gestión de reservas de vuelo. Se utilizó el patrón de diseño Builder para impletar un constructor el cuál arma las distintas reservas de vuelo con características específicas.
 
 
 ### 3- Patrón Singleton
