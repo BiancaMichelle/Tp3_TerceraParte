@@ -1,5 +1,5 @@
 # Tp3_TerceraParte
-### 1- Patrón
+### 1- Patrón Builder
 
 
 ![Captura](https://github.com/user-attachments/assets/27d26d29-999d-4aed-9413-07160d8e40e8)
@@ -7,6 +7,12 @@
 
 El diagrama de clases representa el diseño de un sistema de gestión de reservas de vuelo. Se utilizó el patrón de diseño Builder para impletar un constructor el cuál arma las distintas reservas de vuelo con características específicas.
 
+
+### 2- Patrón Factory Method
+
+![Diagrama de Clase - Gestor de Pagos](https://github.com/user-attachments/assets/4f61c129-81ee-4d51-8287-6ed9ba66abf1)
+
+El diagrama de clases de la parte superior representa un sistema de gestión de pagos con la implementación y utilización del patrón de diseño creacional "Factory Method", este mismo resulta útil dado a que separa el código de construcción del código que hace uso del objeto. Por ello, es más fácil extender el código de construcción de forma independiente al resto del código. Además, este método trae la ventaja de permitirnos ahorrar recursos al reutilizar objetos ya construidos antes que estarlos construyendo una y otra vez.
 
 ### 3- Patrón Singleton
 
